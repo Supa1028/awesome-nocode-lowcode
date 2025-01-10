@@ -25,6 +25,7 @@ A list of **possible** awesome nocode and lowcode ressources which applies to on
 - [Tideflow.io](https://www.tideflow.io/) - Building extensible automation. Open Source.
 - [Wishpond](https://www.wishpond.com/) - Landing pages.
 - [Zyro](https://zyro.com/) - Website builder.
+- [Powerdrill AI](https://powerdrill.ai/) - Automated AI data analysis tool.
 
 ## In alpha or beta version
 
